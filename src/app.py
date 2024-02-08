@@ -71,10 +71,6 @@ def delete_member(member_id):
 
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
-
-
 
 # this only runs if `$ python src/app.py` is executed
 if __name__ == '__main__':
